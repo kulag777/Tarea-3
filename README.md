@@ -1,5 +1,3 @@
-En este *repl* puedes encontrar varios ejemplos que te pueden ayudar con las tareas de estructura.
-
 ## Instrucciones para ejecutar la tarea 3
 Para ejecutar la tarea3 primero debemos compilar (en la carpeta raíz)
 ````
