@@ -9,7 +9,7 @@ Y luego ejecutar:
 ./tarea3
 ````
 
-Funcionalidades Menú Principal: La función mostrarMenuPrincipal muestra las opciones disponibles en el menú principal. El usuario puede elegir entre cargar películas, buscar por distintos criterios y salir del programa.
+Funcionalidades Menú Principal: La función mostrarMenuPrincipal muestra las opciones disponibles en el menú principal. El usuario puede elegir entre búsqueda en profundidad y búsqueda en anchura.
 
 dfs : La función dfs (Depth-First Search) implementa una búsqueda en profundidad para resolver el puzzle de 8 (o cualquier otro puzzle similar).
 
